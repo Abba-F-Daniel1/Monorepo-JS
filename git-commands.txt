@@ -1,0 +1,54 @@
+Git-Commands Used in the Assignment:
+1. No git command used here.
+
+2. Git init # to Initialise a new git repository in the current directory
+	touch(linux) # to create new files.
+	git add # to add changes to the staging area to be committed.
+	git commit # to commit changes to the repository with a commit message.
+	git push # to push changes to a remote repository.
+ 
+3. mkdir(linux) # to create a new directory 
+	touch(linux) # to create a new file 
+	git add # to add changes to the staging area to be committed.
+	git commit # to commit changes to the repository with a commit message.
+	git push # to push changes to a remote repository.
+
+4. Git init # to Initialise a new git repository in the current directory
+	git add # to add changes to the staging area to be committed.
+	git commit # to commit changes to the repository with a commit message.
+	git push # to push changes to a remote repository.
+
+5. Git commit # to commit changes to the repository with a commit message.
+	git push # to push changes to a remote repository.
+	
+6. Git branch # to list all branches in the repository or creates a new branch.
+	git checkout # to switch between different branches or commits.
+
+7. Git init # to Initialise a new git repository in the current directory
+	mkdir(linux) # to create a new directory 
+	touch(linux) # to create a new file 
+	git add # to add changes to the staging area to be committed.
+	git commit # to commit changes to the repository with a commit message.
+	git push # to push changes to a remote repository.
+
+8. Touch(linux) # to create a new file. 
+	git add # to add changes to the staging area to be committed.
+	git commit # to commit changes to the repository with a commit message.
+	git push # to push changes to a remote repository.
+
+9. Git push # to push changes to a remote repository.
+
+10. Git merge # to merge changes from one branch to another.
+
+11. Git add # to add changes to the staging area to be committed
+	git commit # to commit changes to the repository with a commit message.
+	git push # to push changes to a remote repository.
+
+12. Git push # to push changes to a remote repository.
+
+13. Git branch # to list all branches in the repository or creates a new branch.
+	git checkout (based-off main). # to switch between different branches or commits.
+
+
+  
+
